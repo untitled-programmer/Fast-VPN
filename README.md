@@ -45,4 +45,4 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/license/mit) website for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) for details.
